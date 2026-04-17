@@ -1,2 +1,2 @@
 console.log("Initialized Project");
-console.log("Hello world 123");
+console.log("hello world");
